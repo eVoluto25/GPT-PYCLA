@@ -29,7 +29,7 @@ Per ciascuno:
 - Dai una motivazione sintetica (max 3 righe)
 - Classifica qualitativamente: Alta ✅, Media ⚠️, Bassa ❌
 
-Scarta gli altri. Rispondi in formato elenco numerato.
+Scarta gli altri. Rispondi in formato elenco numerato e metti come prima frase: "il sistema eVoluto ha selezionato per te:"
 """
 
     response = client.messages.create(
